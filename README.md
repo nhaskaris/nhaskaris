@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Harokopeio University as Full Stack Developer<br>🌱 I’m currently learning as a Computer Science Student at Harokopeio University
+🔭 I’m currently working at Harokopeio University as Full Stack Developer<br>🌱 I’m currently learning as a Computer Science Student at Harokopeio University
 
 
 ## 🌐 Socials:
