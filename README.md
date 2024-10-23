@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Harokopeio University as Full Stack Developer<br>🌱 I am currently pursuing a Master's in Cloud/Edge Systems Engineer at Harokopeio University
+🔭 I’m currently working at Harokopeio University as Full Stack Developer<br>🌱 I am currently pursuing a Master's in Cloud/Edge Systems and Applications at Harokopeio University
 
 
 ## 🌐 Socials:
