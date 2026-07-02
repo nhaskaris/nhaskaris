@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Harokopeio University as Full Stack Developer<br>
+🔭 PhD Candidate in Informatics & Telematics | Harokopio University<br>
 
 
 ## 🌐 Socials:
